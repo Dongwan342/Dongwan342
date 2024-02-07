@@ -1,4 +1,4 @@
-### Hi there 👋
+My mind is as blank as a white sheet whenever I attend the programming language class - when will Intellij enlighten my benighted brain? 
 
 <!--
 **Dongwan342/Dongwan342** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
